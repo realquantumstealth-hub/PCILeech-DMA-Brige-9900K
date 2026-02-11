@@ -1,7 +1,7 @@
 # PCILeech-DMA-Brige-9900K
 Quantumstealth open source Brige-9900K firmware.
 
-Quantumstealth discord:https://discord.gg/qstealth
+Quantumstealth discord:https://discord.gg/qslab
 
 ## For more engineering documents`pcileech_enigma_x1.srcs`,please contact me on discord.
 
